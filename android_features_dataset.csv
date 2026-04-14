@@ -1,0 +1,6 @@
+app_name,android.permission.READ_CALL_LOG,android.permission.USE_CREDENTIALS,android.permission.INTERNET,android.permission.CAMERA,android.permission.ACCESS_NETWORK_STATE,android.intent.action.MY_PACKAGE_REPLACED,android.intent.action.MEDIA_BUTTON,android.intent.action.MAIN,android.intent.category.LAUNCHER,android.intent.category.DEFAULT
+flashlight,0,0,1,1,1,0,0,0,0,0
+gcalculator,0,0,1,0,1,0,0,0,0,0
+gnotes,0,1,1,0,1,0,0,0,0,0
+recorder,0,0,0,0,0,0,0,0,0,0
+scanner,0,0,1,1,0,0,0,0,0,0

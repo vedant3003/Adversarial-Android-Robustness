@@ -1,0 +1,8 @@
+APKs/
+*.apk
+*.apkm
+
+decompiled/
+
+__pycache__/
+*.pyc
